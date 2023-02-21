@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+}
+.header h1{
+    text-align: center;
+}
+hr{
+    color: chartreuse;
+    width: 100px;
+}
+.center{
+    gap: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* .picture{
+    gap: 20px;
+    display: flex;
+}
+.picture img{
+    width:33%;
+} */
+.picture{
+    padding-top: 20px;
+    margin-left: 316px;
+    gap: 20px;
+    display: flex;
+}
+.picture img{
+    /* text-align: center; */
+    width: 22%;
+    height: 260px;
+}
